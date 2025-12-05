@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Tỏ Tình - Với Tất Cả Tình Yêu ❤️",
-  description: "Một trang web đơn giản và xinh đẹp để tỏ tình với người yêu",
+  description: "Anh yêu bé Khánh Ly rất nhiều! 💖",
   generator: "v0.app",
   icons: {
     icon: [
