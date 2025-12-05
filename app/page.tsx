@@ -74,13 +74,13 @@ export default function ConfessionPage() {
             {/* Description */}
             <div className="bg-white/50 backdrop-blur-md rounded-2xl p-8 mb-12 shadow-lg border border-accent/20 animate-float-up stagger-4">
               <p className="text-lg text-foreground/90 leading-relaxed mb-4">
-                ✨ Bạn là những ngôi sao trong bầu trời đêm của anh
+                ✨ em là những ngôi sao trong bầu trời đêm của anh
               </p>
               <p className="text-lg text-foreground/90 leading-relaxed mb-4">
-                💫 Mỗi khoảnh khắc bên bạn đều quý giá vô cùng
+                💫 Mỗi khoảnh khắc bên em đều quý giá vô cùng
               </p>
               <p className="text-lg text-foreground/90 leading-relaxed">
-                🌹 Anh muốn dành tất cả những ngày tươi đẹp cho bạn
+                🌹 Anh muốn dành tất cả những ngày tươi đẹp cho em
               </p>
             </div>
 
